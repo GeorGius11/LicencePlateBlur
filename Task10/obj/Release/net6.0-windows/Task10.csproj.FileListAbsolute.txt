@@ -1,0 +1,492 @@
+C:\Users\georg\Desktop\FinalTest\Task10\obj\Release\net6.0-windows\Task10.csproj.AssemblyReference.cache
+C:\Users\georg\Desktop\FinalTest\Task10\obj\Release\net6.0-windows\Resources\ButtonResources.baml
+C:\Users\georg\Desktop\FinalTest\Task10\obj\Release\net6.0-windows\Resources\SliderResources.baml
+C:\Users\georg\Desktop\FinalTest\Task10\obj\Release\net6.0-windows\Views\GaussianBlurView.baml
+C:\Users\georg\Desktop\FinalTest\Task10\obj\Release\net6.0-windows\App.baml
+C:\Users\georg\Desktop\FinalTest\Task10\obj\Release\net6.0-windows\MainWindow.g.cs
+C:\Users\georg\Desktop\FinalTest\Task10\obj\Release\net6.0-windows\Views\GaussianBlurView.g.cs
+C:\Users\georg\Desktop\FinalTest\Task10\obj\Release\net6.0-windows\App.g.cs
+C:\Users\georg\Desktop\FinalTest\Task10\obj\Release\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\georg\Desktop\FinalTest\Task10\obj\Release\net6.0-windows\Task10_MarkupCompile.cache
+C:\Users\georg\Desktop\FinalTest\Task10\obj\Release\net6.0-windows\Task10_MarkupCompile.lref
+C:\Users\georg\Desktop\FinalTest\Task10\obj\Release\net6.0-windows\Task10.dll
+C:\Users\georg\Desktop\FinalTest\Task10\obj\Release\net6.0-windows\ref\Task10.dll
+C:\Users\georg\Desktop\FinalTest\Task10\obj\Release\net6.0-windows\Task10.pdb
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\Ijwhost.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\Task10.exe
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\Task10.deps.json
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\Task10.runtimeconfig.json
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\Task10.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\ref\Task10.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\Task10.pdb
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\FFMpegCore.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\FontAwesome.WPF.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\Instances.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\OpenCvSharp.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\System.Text.Json.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win-x64\native\OpenCvSharpExtern.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg460_64.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win-x86\native\OpenCvSharpExtern.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg460.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\Wrapper.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\Wrapper.pdb
+C:\Users\georg\Desktop\FinalTest\Task10\obj\Release\net6.0-windows\MainWindow.baml
+C:\Users\georg\Desktop\FinalTest\Task10\obj\Release\net6.0-windows\Resources\AppResources.baml
+C:\Users\georg\Desktop\FinalTest\Task10\obj\Release\net6.0-windows\Task10.g.resources
+C:\Users\georg\Desktop\FinalTest\Task10\obj\Release\net6.0-windows\Task10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\FinalTest\Task10\obj\Release\net6.0-windows\Task10.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\FinalTest\Task10\obj\Release\net6.0-windows\Task10.AssemblyInfo.cs
+C:\Users\georg\Desktop\FinalTest\Task10\obj\Release\net6.0-windows\Task10.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\FinalTest\Task10\obj\Release\net6.0-windows\Task10.csproj.CopyComplete
+C:\Users\georg\Desktop\FinalTest\Task10\obj\Release\net6.0-windows\Task10.genruntimeconfig.cache
+C:\Users\georg\Desktop\FinalTest\Task10\obj\Release\net6.0-windows\Resources\ProgressBarStyle.baml
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\Cake.Powershell.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\Markdig.Signed.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\Microsoft.ApplicationInsights.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\Namotion.Reflection.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\NJsonSchema.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\System.ComponentModel.Composition.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\System.ComponentModel.Composition.Registration.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\System.Data.Odbc.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\System.Data.OleDb.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\System.DirectoryServices.AccountManagement.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\System.DirectoryServices.Protocols.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\System.IO.Ports.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\System.Management.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\System.Net.Http.WinHttpHandler.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\System.Private.ServiceModel.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\System.Reflection.Context.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\System.ServiceModel.Duplex.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\System.ServiceModel.Http.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\System.ServiceModel.NetTcp.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\System.ServiceModel.Primitives.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\System.ServiceModel.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\System.ServiceModel.Security.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\System.ServiceModel.Syndication.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\System.ServiceProcess.ServiceController.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\net5.0\Microsoft.Management.Infrastructure.CimCmdlets.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\unix\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win-arm\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win-arm\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win-arm\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win-arm\native\mi.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win-arm\native\miutils.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win-arm64\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win-arm64\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win-arm64\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win-arm64\native\mi.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win-arm64\native\miutils.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win10-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win10-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win10-x64\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win10-x64\native\mi.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win10-x64\native\miutils.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win10-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win10-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win10-x86\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win10-x86\native\mi.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win10-x86\native\miutils.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win7-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win7-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win7-x64\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win7-x64\native\mi.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win7-x64\native\miutils.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win7-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win7-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win7-x86\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win7-x86\native\mi.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win7-x86\native\miutils.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win8-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win8-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win8-x64\native\mi.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win8-x64\native\miutils.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win8-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win8-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win8-x86\native\mi.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win8-x86\native\miutils.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win81-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win81-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win81-x64\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win81-x64\native\mi.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win81-x64\native\miutils.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win81-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win81-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win81-x86\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win81-x86\native\mi.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win81-x86\native\miutils.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\net5.0\Microsoft.PowerShell.Commands.Diagnostics.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\unix\lib\net5.0\Microsoft.PowerShell.Commands.Management.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\net5.0\Microsoft.PowerShell.Commands.Management.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\unix\lib\net5.0\Microsoft.PowerShell.Commands.Utility.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\net5.0\Microsoft.PowerShell.Commands.Utility.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\unix\lib\net5.0\Microsoft.PowerShell.ConsoleHost.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\net5.0\Microsoft.PowerShell.ConsoleHost.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\net5.0\Microsoft.PowerShell.CoreCLR.Eventing.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\unix\lib\net5.0\Microsoft.PowerShell.MarkdownRender.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\net5.0\Microsoft.PowerShell.MarkdownRender.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\linux-arm\native\libpsl-native.so
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\linux-arm64\native\libpsl-native.so
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\linux-musl-x64\native\libpsl-native.so
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\linux-x64\native\libmi.so
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\linux-x64\native\libpsl-native.so
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\linux-x64\native\libpsrpclient.so
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\osx\native\libmi.dylib
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\osx\native\libpsl-native.dylib
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\osx\native\libpsrpclient.dylib
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win-arm\native\PowerShell.Core.Instrumentation.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win-arm\native\pwrshplugin.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win-arm64\native\PowerShell.Core.Instrumentation.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win-arm64\native\pwrshplugin.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win-x64\native\PowerShell.Core.Instrumentation.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win-x64\native\pwrshplugin.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win-x86\native\PowerShell.Core.Instrumentation.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win-x86\native\pwrshplugin.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\unix\lib\net5.0\Microsoft.PowerShell.SDK.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\net5.0\Microsoft.PowerShell.SDK.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\unix\lib\net5.0\Microsoft.PowerShell.Security.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\net5.0\Microsoft.PowerShell.Security.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\net5.0\Microsoft.WSMan.Management.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\net5.0\Microsoft.WSMan.Runtime.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\freebsd\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\unix\lib\net5.0\System.Management.Automation.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\net5.0\System.Management.Automation.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Net.Http.WinHttpHandler.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\georg\Desktop\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\Cake.Powershell.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\FFMpegCore.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\FontAwesome.WPF.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\Instances.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\Markdig.Signed.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\Microsoft.ApplicationInsights.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\Namotion.Reflection.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\NJsonSchema.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\OpenCvSharp.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\System.ComponentModel.Composition.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\System.ComponentModel.Composition.Registration.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\System.Data.Odbc.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\System.Data.OleDb.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\System.DirectoryServices.AccountManagement.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\System.DirectoryServices.Protocols.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\System.IO.Ports.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\System.Management.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\System.Net.Http.WinHttpHandler.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\System.Private.ServiceModel.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\System.Reflection.Context.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\System.ServiceModel.Duplex.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\System.ServiceModel.Http.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\System.ServiceModel.NetTcp.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\System.ServiceModel.Primitives.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\System.ServiceModel.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\System.ServiceModel.Security.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\System.ServiceModel.Syndication.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\System.ServiceProcess.ServiceController.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\System.Text.Json.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\net5.0\Microsoft.Management.Infrastructure.CimCmdlets.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\unix\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win-arm\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win-arm\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win-arm\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win-arm\native\mi.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win-arm\native\miutils.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win-arm64\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win-arm64\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win-arm64\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win-arm64\native\mi.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win-arm64\native\miutils.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win10-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win10-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win10-x64\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win10-x64\native\mi.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win10-x64\native\miutils.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win10-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win10-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win10-x86\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win10-x86\native\mi.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win10-x86\native\miutils.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win7-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win7-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win7-x64\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win7-x64\native\mi.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win7-x64\native\miutils.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win7-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win7-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win7-x86\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win7-x86\native\mi.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win7-x86\native\miutils.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win8-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win8-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win8-x64\native\mi.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win8-x64\native\miutils.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win8-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win8-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win8-x86\native\mi.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win8-x86\native\miutils.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win81-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win81-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win81-x64\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win81-x64\native\mi.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win81-x64\native\miutils.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win81-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win81-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win81-x86\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win81-x86\native\mi.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win81-x86\native\miutils.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\net5.0\Microsoft.PowerShell.Commands.Diagnostics.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\unix\lib\net5.0\Microsoft.PowerShell.Commands.Management.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\net5.0\Microsoft.PowerShell.Commands.Management.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\unix\lib\net5.0\Microsoft.PowerShell.Commands.Utility.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\net5.0\Microsoft.PowerShell.Commands.Utility.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\unix\lib\net5.0\Microsoft.PowerShell.ConsoleHost.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\net5.0\Microsoft.PowerShell.ConsoleHost.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\net5.0\Microsoft.PowerShell.CoreCLR.Eventing.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\unix\lib\net5.0\Microsoft.PowerShell.MarkdownRender.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\net5.0\Microsoft.PowerShell.MarkdownRender.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\linux-arm\native\libpsl-native.so
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\linux-arm64\native\libpsl-native.so
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\linux-musl-x64\native\libpsl-native.so
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\linux-x64\native\libmi.so
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\linux-x64\native\libpsl-native.so
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\linux-x64\native\libpsrpclient.so
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\osx\native\libmi.dylib
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\osx\native\libpsl-native.dylib
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\osx\native\libpsrpclient.dylib
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win-arm\native\PowerShell.Core.Instrumentation.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win-arm\native\pwrshplugin.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win-arm64\native\PowerShell.Core.Instrumentation.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win-arm64\native\pwrshplugin.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win-x64\native\PowerShell.Core.Instrumentation.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win-x64\native\pwrshplugin.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win-x86\native\PowerShell.Core.Instrumentation.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win-x86\native\pwrshplugin.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\unix\lib\net5.0\Microsoft.PowerShell.SDK.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\net5.0\Microsoft.PowerShell.SDK.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\unix\lib\net5.0\Microsoft.PowerShell.Security.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\net5.0\Microsoft.PowerShell.Security.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\net5.0\Microsoft.WSMan.Management.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\net5.0\Microsoft.WSMan.Runtime.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win-x64\native\OpenCvSharpExtern.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg460_64.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win-x86\native\OpenCvSharpExtern.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg460.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\freebsd\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\unix\lib\net5.0\System.Management.Automation.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\net5.0\System.Management.Automation.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Net.Http.WinHttpHandler.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\Wrapper.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\Wrapper.pdb
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\obj\Release\net6.0-windows\Task10.csproj.AssemblyReference.cache
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\obj\Release\net6.0-windows\Resources\ButtonResources.baml
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\obj\Release\net6.0-windows\Resources\ProgressBarStyle.baml
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\obj\Release\net6.0-windows\Resources\SliderResources.baml
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\obj\Release\net6.0-windows\Views\GaussianBlurView.baml
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\obj\Release\net6.0-windows\App.baml
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\obj\Release\net6.0-windows\MainWindow.g.cs
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\obj\Release\net6.0-windows\Views\GaussianBlurView.g.cs
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\obj\Release\net6.0-windows\App.g.cs
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\obj\Release\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\obj\Release\net6.0-windows\Task10_MarkupCompile.cache
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\obj\Release\net6.0-windows\Task10_MarkupCompile.lref
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\obj\Release\net6.0-windows\MainWindow.baml
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\obj\Release\net6.0-windows\Resources\AppResources.baml
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\obj\Release\net6.0-windows\Task10.g.resources
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\obj\Release\net6.0-windows\Task10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\obj\Release\net6.0-windows\Task10.AssemblyInfoInputs.cache
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\obj\Release\net6.0-windows\Task10.AssemblyInfo.cs
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\obj\Release\net6.0-windows\Task10.csproj.CoreCompileInputs.cache
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\obj\Release\net6.0-windows\Task10.sourcelink.json
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\obj\Release\net6.0-windows\Task10.csproj.Up2Date
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\obj\Release\net6.0-windows\Task10.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\obj\Release\net6.0-windows\refint\Task10.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\obj\Release\net6.0-windows\Task10.pdb
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\Microsoft.PowerShell.MarkdownRender.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\System.DirectoryServices.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\System.Drawing.Common.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\System.Security.Cryptography.Xml.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\System.Speech.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\System.Web.Services.Description.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\cs\System.Private.ServiceModel.resources.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\de\System.Private.ServiceModel.resources.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\es\System.Private.ServiceModel.resources.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\fr\System.Private.ServiceModel.resources.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\it\System.Private.ServiceModel.resources.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\ja\System.Private.ServiceModel.resources.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\ko\System.Private.ServiceModel.resources.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\pl\System.Private.ServiceModel.resources.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\pt-BR\System.Private.ServiceModel.resources.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\ru\System.Private.ServiceModel.resources.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\tr\System.Private.ServiceModel.resources.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\zh-Hans\System.Private.ServiceModel.resources.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\zh-Hant\System.Private.ServiceModel.resources.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\cs\System.Web.Services.Description.resources.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\de\System.Web.Services.Description.resources.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\es\System.Web.Services.Description.resources.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\fr\System.Web.Services.Description.resources.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\it\System.Web.Services.Description.resources.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\ja\System.Web.Services.Description.resources.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\ko\System.Web.Services.Description.resources.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\pl\System.Web.Services.Description.resources.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\pt-BR\System.Web.Services.Description.resources.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\ru\System.Web.Services.Description.resources.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\tr\System.Web.Services.Description.resources.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\zh-Hans\System.Web.Services.Description.resources.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\zh-Hant\System.Web.Services.Description.resources.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Management.Infrastructure.CimCmdlets.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.PowerShell.Commands.Diagnostics.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.PowerShell.Commands.Management.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.PowerShell.Commands.Management.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.PowerShell.Commands.Utility.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.PowerShell.Commands.Utility.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.PowerShell.ConsoleHost.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.PowerShell.ConsoleHost.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.PowerShell.CoreCLR.Eventing.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.PowerShell.SDK.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.PowerShell.SDK.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.PowerShell.Security.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.PowerShell.Security.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.WSMan.Management.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.WSMan.Runtime.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg490_64.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg490.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\freebsd\lib\net6.0\System.Data.Odbc.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\illumos\lib\net6.0\System.Data.Odbc.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\ios\lib\net6.0\System.Data.Odbc.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\linux\lib\net6.0\System.Data.Odbc.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\osx\lib\net6.0\System.Data.Odbc.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\solaris\lib\net6.0\System.Data.Odbc.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\tvos\lib\net6.0\System.Data.Odbc.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\System.Data.Odbc.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\unix\lib\net6.0\System.Management.Automation.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\System.Management.Automation.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\System.Net.Http.WinHttpHandler.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\System.ServiceProcess.ServiceController.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\System.Speech.dll
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\bin\Release\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll

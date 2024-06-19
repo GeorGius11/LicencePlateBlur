@@ -1,0 +1,34 @@
+cmake_minimum_required(VERSION 3.14 FATAL_ERROR)
+project(CORE_TEST)
+
+enable_language(C)
+enable_language(CXX)
+set(CMAKE_DEBUG_POSTFIX _d)
+set(CMAKE_BUILD_TYPE Release)
+set(CMAKE_CXX_STANDARD 20)
+
+
+add_library(CORE_LIB SHARED IMPORTED)
+set_target_properties(CORE_LIB PROPERTIES 
+    IMPORTED_LOCATION "${CMAKE_BINARY_DIR}/src/bin/CORE_API.dll"
+    IMPORTED_IMPLIB "${CMAKE_BINARY_DIR}/src/lib/CORE_API.lib"
+)
+
+include(${CMAKE_BINARY_DIR}/conanbuildinfo.cmake)
+set(CONAN_DISABLE_CHECK_COMPILER TRUE)
+conan_basic_setup()
+
+
+set(SOURCE_TEST test.cpp)
+
+add_executable(CORE_TEST ${SOURCE_TEST})
+target_compile_features(CORE_TEST PRIVATE cxx_std_20)
+
+target_link_libraries(CORE_TEST PUBLIC ${CONAN_LIBS})
+target_link_libraries(CORE_TEST PUBLIC CORE_LIB)
+
+
+
+FILE(COPY ${CMAKE_SOURCE_DIR}/res/james-deane-drifting-s15.jpg DESTINATION "${PROJECT_BINARY_DIR}")
+FILE(COPY ${CMAKE_SOURCE_DIR}/res/book.jpeg DESTINATION "${PROJECT_BINARY_DIR}")
+FILE(COPY ${CMAKE_SOURCE_DIR}/res/rx7_license_plate.png DESTINATION "${PROJECT_BINARY_DIR}")

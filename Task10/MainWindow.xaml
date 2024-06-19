@@ -1,0 +1,48 @@
+﻿<Window
+    x:Class="Task10.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:views="clr-namespace:Task10.Views"
+    Title="MainWindow"
+    Width="1600"
+    Height="900"
+    MinWidth="805"
+    MinHeight="650"
+    WindowStyle="None"
+    mc:Ignorable="d"
+    WindowStartupLocation="CenterScreen" 
+    Icon="/Assets/car.ico">
+    <WindowChrome.WindowChrome>
+        <WindowChrome CaptionHeight="0" />
+    </WindowChrome.WindowChrome>
+
+    <Grid>
+        <views:GaussianBlurView />
+        <Grid
+            VerticalAlignment="Top"
+            Background="Transparent"
+            MouseDown="Grid_MouseDown">
+            <StackPanel FlowDirection="RightToLeft" Orientation="Horizontal">
+                <Button Click="Close_Click" Style="{StaticResource CloseButton}">
+                    <Viewbox Margin="8"> 
+                        <Path Data="M55.931,47.463L94.306,9.09c0.826-0.827,0.826-2.167,0-2.994L88.833,0.62C88.436,0.224,87.896,0,87.335,0   c-0.562,0-1.101,0.224-1.498,0.62L47.463,38.994L9.089,0.62c-0.795-0.795-2.202-0.794-2.995,0L0.622,6.096   c-0.827,0.827-0.827,2.167,0,2.994l38.374,38.373L0.622,85.836c-0.827,0.827-0.827,2.167,0,2.994l5.473,5.476   c0.397,0.396,0.936,0.62,1.498,0.62s1.1-0.224,1.497-0.62l38.374-38.374l38.374,38.374c0.397,0.396,0.937,0.62,1.498,0.62   s1.101-0.224,1.498-0.62l5.473-5.476c0.826-0.827,0.826-2.167,0-2.994L55.931,47.463z" Fill="White" />
+                    </Viewbox>
+                </Button>
+
+                <Button Click="FullSize_Click" Style="{StaticResource ControlButton}">
+                    <Viewbox Margin="8">
+                        <Path Data="M20 3H4c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h16c1.103 0 2-.897 2-2V5c0-1.103-.897-2-2-2zM4 19V5h16l.001 14H4z " Fill="White" />
+                    </Viewbox>
+                </Button>
+
+                <Button Click="Collapse_Click" Style="{StaticResource ControlButton}">
+                    <Viewbox Margin="3,6,9,12">
+                        <Path Data="M4 8a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 0 1h-7A.5.5 0 0 1 4 8z" Fill="White" />
+                    </Viewbox>
+                </Button>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Window>

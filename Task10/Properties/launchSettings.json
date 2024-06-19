@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Task10": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}

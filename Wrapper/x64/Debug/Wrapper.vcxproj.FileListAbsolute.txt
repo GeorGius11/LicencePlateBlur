@@ -1,0 +1,5 @@
+C:\Users\georg\Desktop\FinalTest\x64\Debug\Ijwhost.dll
+C:\Users\georg\Desktop\FinalTest\x64\Debug\Wrapper.deps.json
+C:\Users\georg\Desktop\FinalTest\x64\Debug\Wrapper.runtimeconfig.json
+C:\Users\georg\Desktop\FinalTest\Wrapper\x64\Debug\Wrapper.genruntimeconfig.cache
+C:\Users\georg\Desktop\FinalTest\Wrapper\x64\Debug\Wrapper.vcxproj.AssemblyReference.cache

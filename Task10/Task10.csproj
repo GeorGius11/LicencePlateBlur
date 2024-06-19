@@ -1,0 +1,36 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Assets\Blurred_photo.png" />
+    <None Remove="Assets\car.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Cake.Powershell" Version="3.0.0" />
+    <PackageReference Include="FFMpegCore" Version="5.1.0" />
+    <PackageReference Include="FontAwesome.WPF" Version="4.7.0.9" />
+    <PackageReference Include="OpenCvSharp4.Windows" Version="4.9.0.20240103" />
+    <PackageReference Include="System.Drawing.Common" Version="8.0.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Wrapper\Wrapper.vcxproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\Blurred_photo.png" />
+    <Resource Include="Assets\car.ico" />
+  </ItemGroup>
+
+  <Target Name="PreBuild" BeforeTargets="PreBuildEvent">
+    <Exec Command="if $(ConfigurationName) == Debug (&#xD;&#xA;copy /Y &quot;$(SolutionDir)\final_core\build\src\bin\CORE_API_d.dll&quot; &quot;$(SolutionDir)\Task10\bin\Debug\net6.0-windows\CORE_API_d.dll&quot;&#xD;&#xA;copy /Y &quot;$(SolutionDir)\final_core\build\src\bin\CORE_API_d.pdb&quot; &quot;$(SolutionDir)\Task10\bin\Debug\net6.0-windows\CORE_API_d.pdb&quot;&#xD;&#xA;) ELSE (&#xD;&#xA;copy /Y &quot;$(SolutionDir)\final_core\build\src\bin\CORE_API.dll&quot; &quot;$(SolutionDir)\Task10\bin\Release\net6.0-windows\CORE_API.dll&quot;&#xD;&#xA;)" />
+  </Target>
+
+</Project>

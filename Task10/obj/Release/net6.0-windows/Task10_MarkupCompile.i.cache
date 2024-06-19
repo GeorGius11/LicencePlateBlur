@@ -1,0 +1,20 @@
+﻿Task10
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\obj\Release\net6.0-windows\
+Task10
+none
+false
+TRACE;RELEASE;NET;NET6_0;NETCOREAPP
+C:\Users\georg\OneDrive\Рабочий стол\FinalTest\FinalTest\Task10\App.xaml
+6-970564142
+
+13-1006628572
+238367808513
+MainWindow.xaml;Resources\AppResources.xaml;Resources\ButtonResources.xaml;Resources\ProgressBarStyle.xaml;Resources\SliderResources.xaml;Views\GaussianBlurView.xaml;
+
+True
+
